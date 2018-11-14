@@ -1,7 +1,7 @@
 # Smart-Contract-Icecubes-ICO
 Implementation of a Smart Contract for the Initial Coin Offering (ICO) of my cryptocurrency Icecubes.It is not a part of the actual Ethereum Blockchain.Yet it can be used to buy Icecubes for USD.
 
-*Note : This is a completely virtual environment where you can have a virtual tour of how Smart Contracts can be deployed on a Blockchain and how users can interact with it on the Blockchain*
+```Note : This is a completely virtual environment where you can have a virtual tour of how Smart Contracts can be deployed on a Blockchain and how users can interact with it on the Blockchain```
 
 # Blockchain
 
