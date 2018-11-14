@@ -1,5 +1,7 @@
 # Smart-Contract-Icecubes-ICO
-Implementation of a Smart Contract for the Initial Coin Offering (ICO) of my cryptocurrency Icecubes.It is not a part of the actual Ethereum Blockchain.
+Implementation of a Smart Contract for the Initial Coin Offering (ICO) of my cryptocurrency Icecubes.It is not a part of the actual Ethereum Blockchain.Yet it can be used to buy Icecubes for USD.
+
+*Note : This is a completely virtual environment where you can have a virtual tour of how Smart Contracts can be deployed on a Blockchain and how users can interact with it on the Blockchain*
 
 # Blockchain
 
@@ -37,5 +39,15 @@ costs associated with contracting. Various cryptocurrencies have implemented typ
 # Requirements
 1. Python
 2. Flask
-3. Postman
-4. Requests
+3. My Ether Wallet
+4. Ganache
+
+# How to use it
+
+1. Download the latest verion of MyEtherWallet from [this](https://github.com/kvhnuke/etherwallet/releases/tag/v3.25.0) link or feel free to use the version available from my repository.
+2. Download the Ganache software from [this](https://truffleframework.com/ganache) link.
+3. Run the Ganache application and select any one address.
+4. Run the index.html file in the MyEtherWallet and setup a custom node using the above address.
+5. Deploy the bytecode version of the smart contract on MyEtherWallet and start intereacting with your address on it.
+
+You can run tests, execute commands, and inspect state while controlling how the chain operates on the Ganache application.
